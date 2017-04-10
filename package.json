@@ -1,0 +1,15 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.9.6"
+  },
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
